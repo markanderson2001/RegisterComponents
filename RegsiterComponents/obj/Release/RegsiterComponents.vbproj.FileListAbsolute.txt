@@ -1,0 +1,19 @@
+C:\Documents and Settings\Mark Anderson\Local Settings\Application Data\Temporary Projects\RegsiterComponents\bin\Release\RegsiterComponents.exe
+C:\Documents and Settings\Mark Anderson\Local Settings\Application Data\Temporary Projects\RegsiterComponents\bin\Release\RegsiterComponents.pdb
+C:\Documents and Settings\Mark Anderson\Local Settings\Application Data\Temporary Projects\RegsiterComponents\bin\Release\RegsiterComponents.xml
+C:\Documents and Settings\Mark Anderson\Local Settings\Application Data\Temporary Projects\RegsiterComponents\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mark Anderson\Local Settings\Application Data\Temporary Projects\RegsiterComponents\obj\Release\RegsiterComponents.Resources.resources
+C:\Documents and Settings\Mark Anderson\Local Settings\Application Data\Temporary Projects\RegsiterComponents\obj\Release\RegsiterComponents.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mark Anderson\Local Settings\Application Data\Temporary Projects\RegsiterComponents\obj\Release\RegsiterComponents.exe
+C:\Documents and Settings\Mark Anderson\Local Settings\Application Data\Temporary Projects\RegsiterComponents\obj\Release\RegsiterComponents.xml
+C:\Documents and Settings\Mark Anderson\Local Settings\Application Data\Temporary Projects\RegsiterComponents\obj\Release\RegsiterComponents.pdb
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\RegsiterComponents.exe
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\RegsiterComponents.xml
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\RegsiterComponents.pdb
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\bin\Release\RegsiterComponents.exe
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\bin\Release\RegsiterComponents.pdb
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\bin\Release\RegsiterComponents.xml
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\ResolveAssemblyReference.cache
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\RegsiterComponents.FrmRegisterComponents.resources
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\RegsiterComponents.Resources.resources
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\RegsiterComponents.vbproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\bin\Release\RegsiterComponents.exe
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\bin\Release\RegsiterComponents.pdb
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\bin\Release\RegsiterComponents.xml
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\ResolveAssemblyReference.cache
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\RegsiterComponents.FrmRegisterComponents.resources
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\RegsiterComponents.Resources.resources
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\RegisterComponents.vbproj.GenerateResource.Cache
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\RegsiterComponents.exe
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\RegsiterComponents.xml
+C:\Project Files\ADPCregisterComponents\RegsiterComponents\obj\Release\RegsiterComponents.pdb

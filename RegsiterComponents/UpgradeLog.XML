@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RegsiterComponents">
+</Property><Property Name="Solution File" Value="C:\Project Files\ADPCregisterComponents\RegsiterComponents\RegsiterComponents.sln">
+</Property><Property Name="User Options File" Value="C:\Project Files\ADPCregisterComponents\RegsiterComponents\RegsiterComponents.suo">
+</Property><Property Name="Date" Value="Friday, July 01, 2011">
+</Property><Property Name="Time" Value="15:59 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RegsiterComponents.sln" Description="File successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\RegsiterComponents.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RegsiterComponents.suo" Description="File successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\RegsiterComponents.suo">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="RegisterComponents.vbproj" Description="Project file successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\RegisterComponents.vbproj">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="RegisterComponents.vbproj.user" Description="Project user file successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\RegisterComponents.vbproj.user">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="frmRegister.vb" Description="File successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\frmRegister.vb">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="frmRegister.Designer.vb" Description="File successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\frmRegister.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="My Project\Settings.settings" Description="File successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="BRIDGE.ICO" Description="File successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\BRIDGE.ICO">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="frmRegister.resx" Description="File successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\frmRegister.resx">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Project Files\ADPCregisterComponents\RegsiterComponents\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="RegisterComponents.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RegisterComponents" Source="RegisterComponents.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RegsiterComponents.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RegsiterComponents.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RegisterComponents" Source="RegisterComponents.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
